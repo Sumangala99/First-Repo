@@ -1,0 +1,31 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    background-image: url("./vacc.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 12px;
+    
+  }
+  h1
+  {
+      color: rgb(14, 35, 223);
+      font-size: xx-large;
+      font-style: italic;
+  }
+  span{
+      color: rgb(16, 158, 163);
+  }
+  .help
+  {
+    
+      padding: 5px;
+      margin: 5px;
+      
+    
+      
+  }
